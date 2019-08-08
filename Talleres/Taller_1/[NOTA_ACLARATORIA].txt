@@ -1,0 +1,10 @@
+> Cuando convertí el archivo del formato "ipynb" a "pdf" usando Latex, encontré que la forma del documento se veía afectada. 
+
+> Particularmente, se eliminaban los saltos de línea que estaban en el formato "ipynb".
+
+> Busqué en internet cómo corregir el problema  pero no logré encontrar solución alguna [quizá no busqué bien].
+
+> Por ese motivo, me tocó manualmente corregir esos errores en el archivo ".tex" [línea por línea].
+
+> ¿Siempre toca hacer ese tipo de correcciones? ¿O existe una manera más limpia para que el archivo quede bien convertido 
+desde un inicio?
