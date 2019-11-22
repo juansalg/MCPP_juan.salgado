@@ -1,0 +1,16 @@
+
+> Slide descriptivos: 
+	
+	1) Grafico articulos / dia ---> (OK)
+	2) Grafico articulos / medio ---> (OK)
+	3) Grafico articulos / palabra ---> (OK)
+
+> Slide descripcion NLP
+
+	1) Descripcion crimenes ---> (OK)
+	2) Venezolanos x tiempo ---> (OK)
+	3) Crimen organizado x tiempo ---> (OK)
+
+> Slide cerrar:
+
+	1) Homicidios / hurto: real vs menciones

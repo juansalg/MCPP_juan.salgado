@@ -1,0 +1,22 @@
+	(1)
+VARIABLES	(1)
+	
+Homicidio	0.255***
+	(0.00719)
+Violenciasexual	0.518***
+	(0.0110)
+Hurto	0.0989***
+	(0.00656)
+Extorsion	-0.0389**
+	(0.0162)
+Constant	0.357***
+	(0.00348)
+	
+Observations	31,179
+R-squared	0.109
+Year FE	NO
+Robust SE	NO
+Mean	0.459
+Std	0.514
+Standard errors in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	
